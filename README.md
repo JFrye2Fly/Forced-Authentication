@@ -53,6 +53,6 @@ The Time range of these login attempts was 2:04 - 2:15pm.
 
 
 # Conclusion
-## This was asuccessful Brute Force attempt. The extent of damage done after the bad actor gained access is hard to determine but it is clear that this Endpoint needed to be isolated from the network. 
+## This was a successful Brute Force attempt. The extent of damage done after the bad actor gained access is hard to determine but it is clear that this Endpoint needed to be isolated from the network. 
 
 
