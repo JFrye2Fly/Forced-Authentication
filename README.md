@@ -6,7 +6,7 @@ In this letsDefend Scenario an alert was triggered due to multipe post requests 
 <br>
 The Time range of these login attempts was 2:04 - 2:15pm.
 
-<br><hr><br>
+<br><hr>
 
 ## Per usual I looked up the reputation of the Source IP Address: 120.48.36.175
 <br>
@@ -15,6 +15,8 @@ The Time range of these login attempts was 2:04 - 2:15pm.
 <br>
 <img width="1898" height="926" alt="Suspicious Source IP" src="https://github.com/user-attachments/assets/fd00e7b9-e22f-4fa5-8dd3-2be8d13e920e" />
 <br>
+
+<hr>
 
 ## The Screenshots below show the multiple login attempts with different username and password attempts that resemble a classic dictionary table attack.
 
