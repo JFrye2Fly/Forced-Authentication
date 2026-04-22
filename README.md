@@ -2,6 +2,7 @@
 
 ## Introduction
 In this letsDefend Scenario an alert was triggered due to multipe post requests to the following URL: http://test-frontend.letsdefend.io/accounts/login
+The Time range of these login attempts was 1:14
 
 <br><hr><br>
 
@@ -28,6 +29,23 @@ In this letsDefend Scenario an alert was triggered due to multipe post requests 
 <br>
 
 <br><hr><br>
+
+## There was a successful Brute Force login. The correct Username was Admin and the correct Password was Password.
+
+<h3>This logon happened at 2:15pm. </h3>
+<br>
+<img width="1072" height="548" alt="Username=admin Password=password" src="https://github.com/user-attachments/assets/007bda10-84ef-4a43-871b-5fde4672b9ef" />
+<br>
+
+<h3>The Proxy Log shows that a successful logon occured at 2:15pm</h3>
+<br>
+<img width="1236" height="491" alt="User Login Successful" src="https://github.com/user-attachments/assets/29d139e3-b00d-46aa-a29b-b7935c7d3817" />
+<br>
+
+
+
+
+
 
 ## Conclusion
 
