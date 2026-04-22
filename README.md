@@ -2,7 +2,9 @@
 
 ## Introduction
 In this letsDefend Scenario an alert was triggered due to multipe post requests to the following URL: http://test-frontend.letsdefend.io/accounts/login
-The Time range of these login attempts was 1:14
+
+<br>
+The Time range of these login attempts was 2:04 - 2:15pm.
 
 <br><hr><br>
 
