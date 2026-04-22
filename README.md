@@ -55,9 +55,7 @@ The Time range of these login attempts was 2:04 - 2:15pm.
 <br>
 
 
-### Conclusion
+# Conclusion
 ## This was asuccessful Brute Force attempt. The extent of damage done after the bad actor gained access is hard to determine but it is clear that this Endpoint needed to be isolated from the network. 
 
 
-## Next Project
-*In my Next Project I will have my Kali VM and Windows VM on different Networks. I will have the PFSense be on both networks and it will be the Gateway for my Kali Machine so that I can implement firewall rules and capture firewall logs!*
