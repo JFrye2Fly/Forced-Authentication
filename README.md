@@ -55,17 +55,8 @@ The Time range of these login attempts was 2:04 - 2:15pm.
 <br>
 
 
-
-
-
-
-## Conclusion
-
-
-
-
-## P.S. I still need to add the powershell malicious activity I found!
-
+### Conclusion
+## This was asuccessful Brute Force attempt. The extent of damage done after the bad actor gained access is hard to determine but it is clear that this Endpoint needed to be isolated from the network. 
 
 
 ## Next Project
